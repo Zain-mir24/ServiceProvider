@@ -1,4 +1,5 @@
 # ServiceProvider
+Master is the main branch
 This repository will have 2 folders
 Frontend and backend
 For backend run npm start and it will run the server, If it doesnt work enter npm install and then try
