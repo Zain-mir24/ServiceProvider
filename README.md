@@ -4,3 +4,5 @@ Frontend and backend
 For backend run npm start and it will run the server
 Same command goes for frontend
 Backend is completely created.
+Alot of apis call are static(Entered userId hardcoded because didnt have enough time)
+Other than that we are getting data dynamically for each employer
